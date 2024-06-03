@@ -3,15 +3,13 @@ A simple chat room
 
 
 
-\# 聊天室项目  
+## \# 聊天室项目  
 
 用户平台示例
 
+![666](https://raw.githubusercontent.com/2386425992/-/main/QQ%E5%9B%BE%E7%89%8720240603105522.png)
 
-
-![image-20240603100515683](C:\Users\86178\AppData\Roaming\Typora\typora-user-images\image-20240603100515683.png)
-
-\## 项目简介  
+## ## 项目简介  
 
   
 
@@ -19,19 +17,19 @@ A simple chat room
 
   
 
-\## 技术栈  
+## \## 技术栈  
 
   
 
-\- 前端：使用了Vue.js（例如React , Angular等）和Vuex（例如Redux, Vuex等状态管理库）进行构建。  
+\- 前端：使用了 （例如React , Angular等）和 （例如Redux, Vuex等状态管理库）进行构建。  
 
-\- 后端：基于Node.js（例如Node.js, Django, Flask等）和Django REST framework（例如Express, Django REST framework等）框架实现。  
+\- 后端：基于 例如Node.js, Django, Flask等）和 （例如Express, Django REST framework等）框架实现。  
 
 \- 数据库：采用了MySQL（例如MySQL, MongoDB, PostgreSQL等）作为数据存储。  
 
   
 
-\## 功能列表  
+## \## 功能列表  
 
   
 
@@ -51,11 +49,11 @@ A simple chat room
 
   
 
-\## 如何运行  
+## \## 如何运行  
 
   
 
-\### 前端  
+## \### 前端  
 
   
 
@@ -69,7 +67,7 @@ A simple chat room
 
   
 
-\### 后端  
+## \### 后端  
 
   
 
@@ -85,7 +83,7 @@ A simple chat room
 
   
 
-\### 数据库  
+## \### 数据库  
 
   
 
@@ -97,7 +95,7 @@ A simple chat room
 
   
 
-\## 注意事项  
+## \## 注意事项  
 
   
 
@@ -109,7 +107,7 @@ A simple chat room
 
   
 
-\## 贡献者  
+## \## 贡献者  
 
  Mr.Peng
 
@@ -127,7 +125,7 @@ Mr.Zhang
 
 
 
-\## 许可证  
+## \## 许可证  
 
   
 
